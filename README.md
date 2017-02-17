@@ -1,2 +1,2 @@
-# WolverineCS
-WolverineCS, a Clear Brook High School computer science club.
+# Clear Brrok High School CORES
+Website for CORES, Clear Brook High School + Greene Elementary
