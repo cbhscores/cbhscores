@@ -1,0 +1,19 @@
+html{
+	background: url('BG.jpg');
+  background-size:contain;
+}	
+
+ body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+      
+       .content {
+    min-height: calc(100vh - 120px);
+    /* 80px header + 40px footer = 120px  */
+}

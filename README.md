@@ -1,2 +1,2 @@
-# cbhscores
-CORES Club - Clear Brook High School + Greene Elementary
+# WolverineCS
+WolverineCS, a Clear Brook High School computer science club.
